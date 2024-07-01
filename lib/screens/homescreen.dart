@@ -11,7 +11,7 @@ class Homescreen extends StatefulWidget {
 }
 
 class _HomescreenState extends State<Homescreen> {
-  final WeatherFactory _wf = WeatherFactory('1953b515f04d1c8c8f8754895975dddf');
+  final WeatherFactory _wf = WeatherFactory('4301cb9c9b671b7e588fd19e0b7b2adc');
   Weather? _weather;
 
   @override
